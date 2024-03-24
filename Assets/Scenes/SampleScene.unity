@@ -1491,7 +1491,7 @@ GameObject:
   - component: {fileID: 1014896305}
   m_Layer: 0
   m_Name: Pin (4)
-  m_TagString: Untagged
+  m_TagString: Pin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1745,7 +1745,7 @@ GameObject:
   - component: {fileID: 1190425805}
   m_Layer: 0
   m_Name: Pin (8)
-  m_TagString: Untagged
+  m_TagString: Pin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2133,7 +2133,7 @@ GameObject:
   - component: {fileID: 1280795502}
   m_Layer: 0
   m_Name: Pin (1)
-  m_TagString: Untagged
+  m_TagString: Pin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2455,7 +2455,7 @@ GameObject:
   - component: {fileID: 1506349855}
   m_Layer: 0
   m_Name: Pin (3)
-  m_TagString: Untagged
+  m_TagString: Pin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2640,6 +2640,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pin
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 33c8b2370d9a6474daaaee7ab1ae9585, type: 3}
+      propertyPath: m_TagString
+      value: Pin
+      objectReference: {fileID: 0}
+    - target: {fileID: 2108629213487684686, guid: 33c8b2370d9a6474daaaee7ab1ae9585, type: 3}
+      propertyPath: m_TagString
+      value: Pin
+      objectReference: {fileID: 0}
     - target: {fileID: 6326357308202581789, guid: 33c8b2370d9a6474daaaee7ab1ae9585, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.1
@@ -2705,7 +2713,7 @@ GameObject:
   - component: {fileID: 1623331693}
   m_Layer: 0
   m_Name: Pin (7)
-  m_TagString: Untagged
+  m_TagString: Pin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2854,7 +2862,7 @@ GameObject:
   - component: {fileID: 1632366938}
   m_Layer: 0
   m_Name: Pin (2)
-  m_TagString: Untagged
+  m_TagString: Pin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3003,7 +3011,7 @@ GameObject:
   - component: {fileID: 1654342694}
   m_Layer: 0
   m_Name: Pin (5)
-  m_TagString: Untagged
+  m_TagString: Pin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3441,7 +3449,7 @@ GameObject:
   - component: {fileID: 1971228371}
   m_Layer: 0
   m_Name: Pin (6)
-  m_TagString: Untagged
+  m_TagString: Pin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
