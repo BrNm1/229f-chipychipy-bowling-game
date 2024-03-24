@@ -15,12 +15,12 @@ public class SceneManeger : MonoBehaviour
     }
     public void BackToMenu()
     {
-        SceneManager.LoadScene("Menu"); // โหลดซีนหน้าเมนูตอนคลิกปุ่มกลับไปหน้าเมนู
+        SceneManager.LoadScene("Menu"); 
     }
 
     public void Credit()
     {
-        SceneManager.LoadScene("Credit");   //หน้าเครดิต
+        SceneManager.LoadScene("Credit");   
     }
 
     public void QuitGame()
