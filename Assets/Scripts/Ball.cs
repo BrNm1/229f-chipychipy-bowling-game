@@ -111,6 +111,7 @@ public class Ball : MonoBehaviour
             >= 6 and < 10 => "It was nice!",
             _ => "Perfect! You are a master!"
         };
+        Point++;
 
         feedBack.GetComponent<Animator>().SetTrigger("Show");
     }
