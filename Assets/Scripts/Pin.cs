@@ -24,7 +24,7 @@ public class Pin : MonoBehaviour
                 GameObject.FindGameObjectWithTag("Ball").GetComponent<Ball>().Point = point;
                 _done = true;
             }
-
+            
 
         }
     }
